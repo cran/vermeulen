@@ -1,6 +1,6 @@
-f478a661075ed46429314f254eed41f4 *DESCRIPTION
+f3ff7eafb384b37266bf54d74613428a *DESCRIPTION
 97306873c9e620e21be864cccb7598ab *NAMESPACE
-cd75bba90db5f140d7a6a1147508d1f1 *NEWS.md
+6c77e37bb6e176d1fda1f7d7cd5ee3fe *NEWS.md
 ca8c8a451e41a950580661d14908d9e7 *R/amplification_curves.R
 82f6b4d414ce129e788dbcadf76c2bce *R/get_biomarker_dataset.R
 a924d5584a0a6b54145340a20824303a *R/reactions.R
@@ -10,12 +10,12 @@ a924d5584a0a6b54145340a20824303a *R/reactions.R
 df6cc46bc7fae1a55b713f3d5065b35a *R/vermeulen-package.R
 2c8480dd6e1672083a47740441ad919c *R/wells.R
 3ac8c59d0106433942ead5effbc425f5 *R/zzz.R
-729c68ee2ee90eb596879ed3e4e947e8 *README.md
-0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
-0ef53fb5810b96c04e2ed21e4e638bac *inst/WORDLIST
+6e8b7a570445b2b4582b4c92d854808e *README.md
+20c8d3f97d93e2e318a22508275b5a02 *build/partial.rdb
+94a17a0d50ddb8ffe4536c960edd10e4 *inst/WORDLIST
 a63485faa1cdc5e415a66ddad170ecc5 *man/figures/README-unnamed-chunk-3-1.png
 175462f74b27f2c7c6889f0a86728fc1 *man/get_biomarker_dataset.Rd
-ee0754ffe83b0a51853384869f27aa51 *man/vermeulen-package.Rd
+10e480c92f279035a06c8029609c27dc *man/vermeulen-package.Rd
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
 c2e59a3fce2696a25c25fc8311f0b36c *tests/testthat.R
 9427df72af810567d4867b18f6dbaa06 *tests/testthat/test-get_biomarker_dataset.R
